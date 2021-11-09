@@ -3,7 +3,7 @@
 
 -HTML
 
--CSS/SCSS
+-CSS
 
 -JavaScript
 
